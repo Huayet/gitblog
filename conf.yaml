@@ -1,18 +1,18 @@
 #GitBlog配置文件，使用4个空格代替Tab
 ---
-url: /
-title: Your-GitBlog
-subtitle: 自豪地采用GitBlog
-theme: simple
+url: http://shc.99mate.cc
+title: 琛哥博客
+subtitle: 研究生期间记录
+theme: quest
 enableCache: true
 highlight: true
 mathjax: false
 katex: false
 duoshuo:
 baiduAnalytics:
-keywords: GitBlog,博客,Markdown博客,jockchou
+keywords: 孙华琛,博客
 description: >
-    GitBlog是一个简单易用的Markdown博客系统
+    记载学习的点滴
 version: 2.2
 author:
     name: your-name
@@ -29,3 +29,4 @@ text:
     title: 介绍
     intro: >
           本博客使用Gitblog搭建，欢迎你!
+
