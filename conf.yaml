@@ -6,8 +6,8 @@ subtitle: 研究生期间记录
 theme: quest
 enableCache: true
 highlight: true
-mathjax: false
-katex: false
+mathjax: true
+katex: true
 duoshuo:
 baiduAnalytics:
 keywords: 孙华琛,博客
@@ -15,10 +15,10 @@ description: >
     记载学习的点滴
 version: 2.2
 author:
-    name: your-name
-    email: your-email@example.com
-    github: your-github
-    weibo: your-weibo
+    name: 孙华琛
+    email: 736553312@qq.com
+    github: https://github.com/Huayet
+    weibo: http://weibo.com/1849350951
     avatar:
 blog:
     recentSize: 5
