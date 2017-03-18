@@ -1,3 +1,12 @@
+<!--
+author: 孙华琛
+date: 2017-02-03
+title: Python自己动手写分词 — ①正向最大匹配分词
+tags: NLP
+category: NLP
+status: publish
+summary: Python自己动手写分词 — ①正向最大匹配分词
+-->
 # Python自己动手写分词 — ①正向最大匹配分词
 ---
 

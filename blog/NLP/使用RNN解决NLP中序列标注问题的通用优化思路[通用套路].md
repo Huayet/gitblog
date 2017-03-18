@@ -1,3 +1,12 @@
+<!--
+author: 孙华琛
+date: 2017-01-13
+title: 使用RNN解决NLP中序列标注问题的通用优化思路
+tags: NLP
+category: NLP
+status: publish
+summary: 使用RNN解决NLP中序列标注问题的通用优化思路
+-->
 # 使用RNN解决NLP中序列标注问题的通用优化思路 
 
 > 版权声明：可以任意转载，转载时请标明文章原始出处和作者信息。author: 张俊林。[原文链接](http://blog.csdn.net/malefactor/article/details/50725480)
