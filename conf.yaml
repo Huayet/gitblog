@@ -2,7 +2,7 @@
 ---
 url: http://shc.99mate.cc
 title: 琛哥博客
-subtitle: 研究生期间记录
+subtitle: Funny生活 - - - 爱萌宠，重养生
 theme: quest
 enableCache: true
 highlight: true
@@ -10,9 +10,9 @@ mathjax: true
 katex: true
 duoshuo:
 baiduAnalytics:
-keywords: 孙华琛,博客
+keywords: 孙华琛,博客,Funny生活
 description: >
-    记载学习的点滴
+    记载生活的点滴
 version: 2.2
 author:
     name: 孙华琛
@@ -28,5 +28,5 @@ blog:
 text:
     title: 介绍
     intro: >
-          本博客使用Gitblog搭建，欢迎你!
+          Funny生活 - - - 爱萌宠，重养生，Based On Gitblog，欢迎你!
 
